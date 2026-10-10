@@ -93,3 +93,7 @@ commit5  => Latest commit  => HEAD
 
 
 git checkout commmit-id
+
+
+
+please teach me pull fetch and clone
