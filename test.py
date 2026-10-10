@@ -97,3 +97,5 @@ git checkout commmit-id
 
 
 please teach me pull fetch and clone
+
+learning about stash
