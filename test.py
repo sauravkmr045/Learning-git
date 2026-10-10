@@ -81,3 +81,15 @@ git rebase branch_name
 5 squash and commits
 
 
+HEAD:-  pointer 
+
+
+commit1
+commit2
+commit3
+commit4
+commit5  => Latest commit  => HEAD
+
+
+
+git checkout commmit-id
