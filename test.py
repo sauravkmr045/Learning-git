@@ -80,12 +80,4 @@ git rebase branch_name
 
 5 squash and commits
 
-4commit 
-                3 commit
-main ========branch2 merge            (merge brnach1)  ==================12 commits
 
-
-            branch1==================
-            5 commit 
-
-                5am 6am 7am 8am 9am
